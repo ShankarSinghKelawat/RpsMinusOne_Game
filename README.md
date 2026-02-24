@@ -39,6 +39,14 @@ Players place ETH bets, select two moves, and finish the game with one final mov
    - Lose -> Bet lost
 5. Rewards accumulate in contract until withdrawal threshold is reached.
 
+## 📜 Contract Details
+
+- **Contract Name:** `RPSMinusOne.sol`
+- **Network:** `Sepolia Test Network`
+- **Chain ID:** `11155111`
+- **Deployed Address:** `0xF555C1Da60aC81051162098a7389927bb9b2AAdd`
+- **Explorer Link:** `https://sepolia.etherscan.io/address/0xF555C1Da60aC81051162098a7389927bb9b2AAdd`
+
 ## 🏗️ Smart Contract Architecture
 
 ### 🔧 Core Variables
