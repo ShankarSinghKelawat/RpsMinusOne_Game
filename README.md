@@ -90,8 +90,8 @@ mapping(address => GameResult[5]) public recentGames;
 ### 1. 📥 Clone Repo
 
 ```bash
-git clone https://github.com/yourusername/rps-minus-one.git
-cd rps-minus-one
+git clone https://github.com/ShankarSinghKelawat/RpsMinusOne_Game
+cd RpsMinusOne_Game
 ```
 
 ### 2. 📦 Install Dependencies
